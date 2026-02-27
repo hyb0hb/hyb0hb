@@ -36,6 +36,6 @@ I enjoy solving real problems and improving my coding skills through consistent 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Niykven&show_icons=true&title_color=c89fff&text_color=ddaaff&icon_color=c89fff&bg_color=ffffff00&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niykven&layout=compact&title_color=c89fff&text_color=ddaaff&bg_color=ffffff00&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyb0hb&layout=compact&title_color=c89fff&text_color=ddaaff&bg_color=ffffff00&hide_border=true" height="150" />
 </p>
 
