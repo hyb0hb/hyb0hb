@@ -19,8 +19,8 @@
 
 ### 👩‍💻 About Me
 I'm **hb**, a **Computer Science student** specializing in **Software Engineering**.  
-Currently focusing on **Backend Development**, and working toward becoming a **Full-Stack Developer**.  
-Interested in **Mathematics**, **Cybersecurity**, and **Artificial Intelligence**.  
+Currently focusing on **Artificial Intelligence**.  
+Interested in **Mathematics**, **Cybersecurity**.  
 I enjoy solving real problems and improving my coding skills through consistent learning and practice.
 
 ---
