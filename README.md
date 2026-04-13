@@ -8,8 +8,8 @@
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
       <h1 style="color: #c89fff; font-size: 26px; margin: 0;">
-        Welcome to my GitHub — I'm <span style="color: #b065ff;">hb 💜</span>
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="wave hand gif">
+        Welcome to my GitHub — I'm <span style="color: #b065ff;">hb </span>
+
       </h1>
     </td>
   </tr>
