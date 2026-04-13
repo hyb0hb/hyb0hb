@@ -9,7 +9,6 @@
     <td style="vertical-align: middle; padding-left: 20px;">
       <h1 style="color: #c89fff; font-size: 26px; margin: 0;">
         Welcome to my GitHub — I'm <span style="color: #b065ff;">hb </span>
-
       </h1>
     </td>
   </tr>
